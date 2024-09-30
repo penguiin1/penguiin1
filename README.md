@@ -3,7 +3,6 @@
 - Hongik University Computer Engineering 22
 - Hongik University club ExP Make Gameprogrammer 22
 - BAY(blockchain at yonsei) 13th
-- BAY 14th vice president
 -  Unity, C#, Flutter, Django
 
 <!--
