@@ -1,9 +1,9 @@
 ## Hi
 
 - Hongik University Computer Engineering 22
-- Hongik University club ExP Make Gameprogrammer 22
-- BAY(blockchain at yonsei) 13th
--  Unity, C#, Flutter, Django
+- Hongik University club ExP Make Game Programmer 22
+- BAY(blockchain at yonsei) 13th (14th vice president)
+- Unity, C#, Flutter, ReactNative, Next.js, FAST API
 
 <!--
 **penguiin1/penguiin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
