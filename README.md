@@ -4,7 +4,7 @@
 - Hongik University club ExP Make Game Programmer 22
 - BAY(Blockchain at Yonsei) 13th (14th vice president)
 - XREAL DEV 8th (Institute based on Seoul National Univ.)
-- Unity, C#,C++, Flutter, ReactNative, Next.js, FAST API
+- Unity, C#, C++, Flutter, ReactNative, Next.js, FAST API
 
 <!--
 **penguiin1/penguiin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
