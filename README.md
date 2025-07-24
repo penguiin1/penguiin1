@@ -3,7 +3,6 @@
 - Hongik University Computer Engineering 22
 - Hongik University club ExP Make Game Programmer 22
 - BAY(Blockchain at Yonsei) 13th (14th vice president)
-- XREAL DEV 8th (Institute based on Seoul National Univ.)
 - Unity, C#, C++, Flutter, ReactNative, Next.js, FAST API
 
 <!--
