@@ -1,7 +1,9 @@
 ## Hi
 
+BCI / Neuro Tech / VR
+
 - Hongik University Computer Engineering 22
-- Former Hongik University club ExP Make Game Programmer 22
+- Former ABCD Edu CTO
 - Former BAY(Blockchain at Yonsei) 13th (14th vice president)
 - Unity, C#, C++, Flutter, ReactNative, Next.js, FAST API, NestJS, Solidity, VR/AR
 
